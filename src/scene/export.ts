@@ -148,6 +148,10 @@ export const exportToSvg = async (
         font-family: "Cascadia";
         src: url("${assetPath}Cascadia.woff2");
       }
+      @font-face {
+        font-family: "Yozai";
+        src: url("${assetPath}Yozai-Regular.ttf");
+      }
     </style>
   </defs>
   `;

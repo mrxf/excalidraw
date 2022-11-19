@@ -11,6 +11,24 @@
   src: url("Cascadia.woff2");
   font-display: swap;
 }
+@font-face {
+  font-family: "Youzai";
+  src: url("Yozai-Regular.ttf");
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Youzai";
+  src: url("Yozai-Medium.ttf");
+  font-display: swap;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Youzai";
+  src: url("Yozai-Bold.ttf");
+  font-display: swap;
+  font-weight: 700;
+}
 
 @font-face {
   font-family: "Assistant";
